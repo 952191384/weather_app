@@ -1,0 +1,9 @@
+<resources>
+    <string name="location_name">石家庄市裕华区</string>
+    <string name="tamperature_large">25</string>
+    <string name="tips">记得随身携带雨伞o</string>
+    <string name="tomorrow_tem">23~29°</string>
+    <string name="after_tomorrow_tem">23~29°</string>
+    <string name="tomorrow_information">小雨转大雨</string>
+    <string name="after_tomorrow_information">小雨转大雨</string>
+</resources>

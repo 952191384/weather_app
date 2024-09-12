@@ -1,0 +1,8 @@
+<resources>
+    <style name="TransparentTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Set the background color to transparent -->
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>
